@@ -6,7 +6,7 @@ schema:
 dataSources:
   - kind: ethereum
     name: DAIToken
-    network: http://127.0.0.1:1030
+    network: mainnet
     source:
       address: "0xb4B46bdAA835F8E4b4d8e208B6559cD267851051"
       abi: DAIToken
